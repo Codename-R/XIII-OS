@@ -3,9 +3,9 @@ echo "
 _  _ _ _ _    ____ ____ 
  \/  | | | __ |  | [__  
 _/\_ | | |    |__| ___] 
-  407 Authentic Exploit
-  Watashinonamaeha Rizz Ex >_<
-  Os Installer for Termux App
+
+407 Authentic Exploit
+Watashinonamaeha Rizz Ex >_<
 ___________________________________________"
 echo "
 [1] Ubuntu
